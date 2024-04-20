@@ -1,0 +1,5 @@
+To boot up a virtual environment for the pytest test suite, you will need to install pytest.
+1. pip install pipenv
+2. Windows: python -m pipenv shell     or     Linux: python3 -m pipenv shell
+3. pip install pytest
+To run the program, run the main.py file: Windows: python main.py  or   Linux: python3 main.py
